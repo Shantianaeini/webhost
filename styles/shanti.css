@@ -102,7 +102,7 @@ body{
     color:white ;
 }
 .landing-container{
-    background-image:url("./images/headerBg.png") ;
+    background-image: url("./../images/headerBg.png");
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
