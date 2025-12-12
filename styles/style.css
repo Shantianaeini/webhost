@@ -1,0 +1,14 @@
+.img2{
+    width: 89px;
+    height: 89px;
+    overflow: hidden;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+.comment-card{
+    display: flex;
+    gap: 25px;
+}
+
